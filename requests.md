@@ -2,7 +2,7 @@
 
 ## AUTH
 
-curl -d '{"username":"akira", "password":"997851gabriel"}' -H "Content-Type: application/json" -X POST http://localhost:8000/login/
+curl -d '{"username":"akira", "password":"5565340gabriel"}' -H "Content-Type: application/json" -X POST http://localhost:8000/login/
 
 ## GET
 
