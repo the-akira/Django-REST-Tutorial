@@ -2,7 +2,7 @@
 
 Neste guia vamos desenvolver uma REST API com o framework Django REST.
 
-**[Leia o Tutorial](https://akiradev.netlify.com/posts/django-rest-api/)**
+**[Leia o Tutorial](https://akiradev.netlify.app/posts/django-rest-api/)**
 
 --- 
 
@@ -45,3 +45,5 @@ Execute a aplicação
 ```
 python manage.py runserver
 ```
+
+Faça [Requisições](https://github.com/the-akira/Django-REST-Tutorial/blob/master/requests.md).
